@@ -42,7 +42,8 @@ Data Visualization
 -	Balanced confusion matrix with improved ability to accurately classify
 -	Strong model performance above 70% accuracy benchmark
 
-<img width="535" height="462" alt="confusionmatrix" src="https://github.com/user-attachments/assets/ef1bd916-6358-46ed-bbaa-93dfbf0cdbc3" />
+<img width="535" height="462" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/4c4ce4ee-d339-4383-be63-6ddf6c90cfa0" />
+
 
 
 #### Key Insights
@@ -52,7 +53,8 @@ Data Visualization
     - Acousticness
 -	Audio features show measurable impact on the predictability of song popularity
 
-<img width="1125" height="468" alt="featureimportance" src="https://github.com/user-attachments/assets/387ca0ff-3111-444c-a814-ce1443e51181" />
+<img width="1125" height="468" alt="feature importance" src="https://github.com/user-attachments/assets/26fbd69c-2d4c-466f-9332-c4fbcf163b16" />
+
 
 
 #### Recommendations:
