@@ -42,9 +42,9 @@ Data Visualization
 
 #### Key Insights
 -	The most influential features:
-o	Tempo
-o	Danceability
-o	Energy
+    - Tempo
+    - Danceability
+    - Energy
 -	Audio features show measurable impact on the predictability of song popularity
 
 <img width="1125" height="468" alt="featureimportance" src="https://github.com/user-attachments/assets/387ca0ff-3111-444c-a814-ce1443e51181" />
