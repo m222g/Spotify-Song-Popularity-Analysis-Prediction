@@ -42,16 +42,16 @@ Data Visualization
 
 #### Key Insights
 -	The most influential features:
-    - Tempo
+    - Duration
     - Danceability
-    - Energy
+    - Acousticness
 -	Audio features show measurable impact on the predictability of song popularity
 
 <img width="1125" height="468" alt="featureimportance" src="https://github.com/user-attachments/assets/387ca0ff-3111-444c-a814-ce1443e51181" />
 
 
 #### Recommendations:
-1.	Artists should take advantage of the most influential features when producing songs by prioritizing tempo, danceability, and energy
+1.	Artists should take advantage of the most influential features when producing songs by prioritizing duration, danceability, and acousticness
 2.	Record labels can use predictive modeling to gauge a song’s success before it’s released
 3.	Allocate and invest in marketing and production resources accordingly, based on predicted popularity
 4.	Feature importance can guide creative decision-making in music production
