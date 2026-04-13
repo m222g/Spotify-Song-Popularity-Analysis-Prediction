@@ -8,7 +8,7 @@ This project aims to answer the question: Can a song’s audio features be used 
 Understanding this relationship helps stakeholders in the music industry (artists, producers, record label executives) make data-driven decisions about marketing and production strategies. 
 
 ### Methodology
-Data Collection: Kaggle dataset (Spotify Tracks Dataset)
+Data Collection: Kaggle dataset [(Spotify Tracks Dataset)](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)
 
 Data Cleaning: Preprocessed 12k+ song records
 
