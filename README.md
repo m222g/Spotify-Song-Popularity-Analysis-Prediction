@@ -9,10 +9,15 @@ Understanding this relationship helps stakeholders in the music industry (artist
 
 ### Methodology
 Data Collection: Kaggle dataset (Spotify Tracks Dataset)
+
 Data Cleaning: Preprocessed 12k+ song records
+
 Data Preparation: Engineered target variable for high or low popularity classification using the median popularity score of 35
+
 Data Splitting/Model Preparation: Split the data into 80% training and 20% testing
+
 Modeling: Trained and optimized a Random Forest Classifier
+
 Evaluation: Evaluated the model’s performance using a confusion matrix, accuracy score, and feature importance analysis
 
 ### Skills
